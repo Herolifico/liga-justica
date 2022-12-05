@@ -2,7 +2,5 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-Superman está bárbaro esta temporada
+## Estos cambios son nuevos
 
-## Notas
-Pueden hacer lo que quieran...
